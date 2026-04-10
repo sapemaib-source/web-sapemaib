@@ -117,8 +117,8 @@ Al añadir texto nuevo: poner `data-i18n` en el HTML **y** añadir la clave en a
 
 ## Analytics
 
-Google Tag Manager `GTM-M22FHS87` — el mismo contenedor que usa la app TiroLog.
-Snippet en `<head>` y noscript en `<body>`. No añadir otro GTM ni GA directamente.
+Google Analytics 4 — measurement ID `G-VVDST34RFP`.
+Snippet gtag.js en `<head>`. No añadir GTM ni otro ID de GA.
 
 ---
 
